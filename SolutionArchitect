@@ -30,3 +30,13 @@ A solution architect should be able to choose the technology that not only satis
 Solution architects work on solution design after understanding different aspects of functional requirements, NFRs, solution constraints, and technology selection. In an agile environment, this is an iterative approach where the requirements may change over time and need to accommodate the solution design.
 
 Solution architects are not only responsible for solution design. They also help project managers with resource and cost estimation, defining the project's timeline and milestones, the project's release, and its support plan. The solution architect works through different phases of the solution life cycle, from design to delivery and launch. The solution architect helps the development team overcome obstacles and hurdles by providing expertise and a broad understanding.
+
+Often, organizations choose a less costly option for disaster recovery, but it is essential to do regular testing and make sure the failover is working. The team should put a routine checkpoint in operational excellence to make sure there's business continuity in the event of disaster recovery.
+
+Before starting the solution design process, a solution architect should work alongside a product owner to research users by conducting interviews, and surveys, and gathering feedback on the mock frontend design. You need to understand the user's limitations and empower them with supporting features during application development.
+
+When the product is launched, the team should plan for A/B testing by routing a small portion of user traffic to new features and understanding user reactions. After launch, the application must have a mechanism to collect continuous feedback (by providing a feedback form or by launching customer support) to make the design better.
+
+Interoperability enriches system extensibility, and portability increases the usability of an application. Both are critical attributes of an architecture design and may add additional exponential costs if they're not addressed during solution design. A solution architect needs to carefully consider both aspects as per industry requirements and system dependencies.
+
+The solution architect increases product and platform adoption by spreading the word through public forums. They write blogs about solution implementation and conduct workshops to showcase potential benefits and the use of technology platforms.
