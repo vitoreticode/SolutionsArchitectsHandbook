@@ -1,0 +1,9 @@
+Agile architecture is about designing decoupled and extendable interfaces.
+
+A solution architect in an agile environment needs to follow an iterative re-architect concept by inspecting and adapting the approach.
+
+It's about choosing the right solution for enterprises, communicating well, taking continuous feedback, and modeling in an agile way. 
+
+The foundation of the agile architecture should be reducing the cost of changes, reducing unnecessary requirements by challenging them, and creating a framework to reverse incorrect requirements rapidly.
+
+The Agile architect builds prototypes to minimize risk and plans for change by understanding them. They design the prototype while balancing the needs of all stakeholders and creating a loosely coupled architecture that can easily integrate with other modules.
